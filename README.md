@@ -49,4 +49,4 @@ This project utilizes a comprehensive public dataset obtained from **Kaggle**, c
 - [ ] **Deployment:** Building the frontend interface for the "Role Calculator."
 
 ---
-*Project designed by Fatih Dallı - Statistics Undergraduate*
+*Project designed by Fatih Dallı*
