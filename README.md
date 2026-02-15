@@ -38,7 +38,7 @@ This project utilizes a comprehensive public dataset obtained from **Kaggle**, c
     * **Progressive Carries & Passes**
     * **Defensive Actions (Tackles, Interceptions)**
     * **Possession & Passing Zones**
-
+      
 > **Note:** The data is used here strictly for educational and non-commercial analytical purposes to demonstrate advanced clustering techniques.
 
 ## 🗺️ Roadmap
